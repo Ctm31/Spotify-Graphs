@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # setup creditials for spotify app
-client_credentials_manager = SpotifyClientCredentials(client_id='d27549c5062d4f02838b372c31eb15bf', client_secret='b21dc57bb058493e863c3725dcf93062')
+client_credentials_manager = SpotifyClientCredentials(client_id='id', client_secret='secret')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 def artist_graph():

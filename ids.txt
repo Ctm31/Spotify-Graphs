@@ -1,0 +1,2 @@
+client_id='d27549c5062d4f02838b372c31eb15bf'
+client_secret='b21dc57bb058493e863c3725dcf93062'
